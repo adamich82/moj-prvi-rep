@@ -9,3 +9,5 @@ Ovako se pisu promenljive
 
 ***wOW***
 
+E, da bih dodao nesto u svoj dokument, tj. da napravim promenu na github-u, radim sledece:
+- Prvo moram da odradim 'git add .', pa posle toga ide 'git commit -m "Ovde ide komentar promene"'. Posle toga ide 'git push'.
